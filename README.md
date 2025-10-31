@@ -23,32 +23,38 @@
 ## 🛠️ Technologies I Use
 
 - **Frontend:**  
+
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Backend & Database:**  
+
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - **Embedded AI / TinyML:** 
+
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
   ![STM32](https://img.shields.io/badge/STM32-003B5C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 - **Robotics & Automation:**  
+
   ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
   ![AGV](https://img.shields.io/badge/AGV_Robot-FF6F61?style=for-the-badge&logo=robot&logoColor=white)
   ![IoT](https://img.shields.io/badge/IoT-0078D7?style=for-the-badge&logo=internetofthings&logoColor=white)
 
 - **3D Design:**  
+
   ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
   ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FD7E14?style=for-the-badge&logo=autodesk&logoColor=white)
 
-- **Web Scraping:**  
+- **Web Scraping:** 
+
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
   ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-232E3C?style=for-the-badge&logo=python&logoColor=white)
   ![Scrapy](https://img.shields.io/badge/Scrapy-66B232?style=for-the-badge&logo=scrapy&logoColor=white)
